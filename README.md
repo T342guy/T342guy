@@ -1,4 +1,4 @@
-https://github-profile-trophy.vercel.app/?username=t342guy-ma&theme=darkhub
+
 
 
 - 👋 Hi, I’m @T342guy! or Nathan for my real name.
