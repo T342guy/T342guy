@@ -1,3 +1,6 @@
+https://github-profile-trophy.vercel.app/?username=t342guy-ma&theme=darkhub
+
+
 - 👋 Hi, I’m @T342guy! or Nathan for my real name.
 - 👀 I’m interested in ... FPS games, THE FINALS, satisfactory, and python!
 - 🌱 I’m currently learning ... Python3 on VAIIYA terminal! 
