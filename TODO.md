@@ -9,6 +9,10 @@ just a list of things todo haha
 A. "no more time" community projects.\
 B. mentioning other community projects with links in the README.\
 goal: allowing outside THE FINALS fans to fix/modify/add/improve to deprecated projects, and/or bringing attention to still active self owned projects.\
+additiobal idea: if a project is "no more time" deprecated, and if the original project owner agrees, it can be merged into THE FINALS COMMUNITY CODERS group for a type of "community fueled revival", and adopt the TFCC "policy of community work, respect and honour"\
+that basically is a large term notice saying somthing about "please respect the original project owner, please respect the goal of community work," ext ext,\
+and also saying somthing about, license variety per original owner choice and "do not redistribute and reformat in your own image" kinda thing.
+
 
 
 ## old stuff i did down here cuz why not 
