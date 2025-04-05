@@ -9,7 +9,7 @@
 
 - 🧙‍♂️ I’m currently expanding my already vast intellect on **Python, ASCII art, GrapeJS web-builder, pleading to the python gods to add true multithreading, spells, servers and IT!**
 
-- 💾 I am the owner and maintainer of [vaiiya.ca! a Unofficial VAIIYA project!](https://github.com/T342guy/vaiiya.ca)
+- 💾 I am the owner and maintainer of [The Unofficial VAIIYA website project!](https://github.com/T342guy/vaiiya.ca)
 
 - 💬 Ask my totally (not) vast intellect on **python, VAIIYA terminal, THE FINALS, why VALVe is STILL the BOSS, summoning errors at records pace,**
 
