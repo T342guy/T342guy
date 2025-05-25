@@ -1,5 +1,5 @@
-<h1 align="center">Hello hello! im T342!</h1>
-<h3 align="center">A random THE FINALS gamer/lover, passion coder, factually a IBM 5150, and a wizard!</h3>
+<h1 align="center">Hello hello! I'm T342!</h1>
+<h3 align="center">A random THE FINALS gamer/lover, passion coder and factually an IBM 5150!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t342guy&label=Profile%20views&color=514fe3&style=flat" alt="t342guy" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🛠️ I’m currently banging rocks, my brain, and lots of creativity into [The VAIIYA website project! (A unofficial self-made website!)](https://github.com/T342guy/vaiiya.ca)
 
-- 🧙‍♂️ I’m currently expanding my already, totally vast intellect on **webstudio web-builder, writing, THE FINALS and VAIIYA lore, photo editing, spells, and "how to blend a blender"**
+- 🧙‍♂️ I’m currently expanding my already, totally vast intellect on **webstudio web-builder, writing, THE FINALS and VAIIYA lore, photo editing, VALVe, and "how to blend a blender"**
 
 - 💬 Ask my totally (not) vast intellect on **THE FINALS, VAIIYA, my 900hrs of THE FINALS playtime ._. and VALVe debates!**
 
