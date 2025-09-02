@@ -15,7 +15,7 @@
 
 - 💬 Ask my totally (not) vast intellect on **THE FINALS, VALVe, my game "TIMESWAPING", and how to blend a blender!**
 
-- 📫 If youd like to reach out to me, go ahead! :> **chaircomputeroverdrive@gmail.com**
+- 📫 If youd like to reach out to me, go ahead! :> **T342guy@proton.me**
 
 - ⚡ Heres a FACT: **The IBM 5150 was released by the IBM company in 1981 and had a intel 8088 processor and had about 256kb of Dram!! it was very sadly discontinued in 1987 <(＿　＿)> (also anyone know how to blend a blender?)**
 
