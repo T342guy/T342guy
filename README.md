@@ -8,7 +8,7 @@
 
 - 🌱 I'm currently learning **GoLang, Game design and development**
 
-- 🤝 I'm looking for help with **Source-toSource2-reimporter if ya can :>**
+- 🤝 I'm looking for help with **SourceShifter if ya can :>**
 
 - 📫 How to reach me **t342guy@proton.me**
 
