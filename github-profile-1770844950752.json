@@ -1,0 +1,95 @@
+{
+  "version": "1.0.0",
+  "exportedAt": "2026-02-11T21:22:30.751Z",
+  "profile": {
+    "title": "T342",
+    "subtitle": "A massive THE FINALS fan, VALVe fan, hobby programmer, anti-AI guy",
+    "currentWork": "A lot of different things",
+    "currentLearn": "GoLang, Game design and development",
+    "collaborateOn": "",
+    "helpWith": "",
+    "ama": "",
+    "contact": "t342guy@proton.me",
+    "funFact": "Did you know that the IBM 5150 had the ability to hold 640KB of RAM?",
+    "visitorsBadge": true,
+    "badgeStyle": "flat",
+    "badgeColor": "0e75b6",
+    "badgeLabel": "Profile views",
+    "githubProfileTrophy": true,
+    "githubStats": true,
+    "githubStatsOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "topLanguages": true,
+    "topLanguagesOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "streakStats": true,
+    "streakStatsOptions": {
+      "theme": ""
+    },
+    "devDynamicBlogs": false,
+    "mediumDynamicBlogs": false,
+    "rssDynamicBlogs": false
+  },
+  "links": {
+    "currentWork": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "portfolio": "https://t342.dev",
+    "blog": "https://t342.dev/posts",
+    "resume": ""
+  },
+  "social": {
+    "github": "T342guy",
+    "dev": "",
+    "linkedin": "",
+    "codepen": "",
+    "stackoverflow": "",
+    "kaggle": "",
+    "codesandbox": "",
+    "fb": "",
+    "instagram": "",
+    "twitter": "T342guy",
+    "dribbble": "",
+    "behance": "",
+    "medium": "",
+    "youtube": "",
+    "codechef": "",
+    "hackerrank": "",
+    "codeforces": "",
+    "leetcode": "",
+    "topcoder": "",
+    "hackerearth": "",
+    "geeks_for_geeks": "",
+    "discord": "",
+    "rssurl": "",
+    "twitterBadge": false
+  },
+  "support": {
+    "buyMeACoffee": ""
+  },
+  "skills": [
+    "bash",
+    "blender",
+    "csharp",
+    "dotnet",
+    "git",
+    "go",
+    "hugo",
+    "linux",
+    "python"
+  ]
+}
