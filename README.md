@@ -1,6 +1,6 @@
 # Hi 👋, I'm T342
 
-### A massive THE FINALS fan, VALVe fan, hobby programmer, anti-AI guy
+### A massive THE FINALS fan, VALVe fan, hobby programmer, anti-AI guy*
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=T342guy&label=Profile views&color=0e75b6&style=flat" alt="T342guy" /> </p>
 
@@ -30,3 +30,5 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=T342guy&layout=donut&langs_count=5&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=T342guy&layout=donut&langs_count=5&theme=dark)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=T342guy&" alt="T342guy" /></p>
+
+*that depends on how you use it, don't become stupid.
